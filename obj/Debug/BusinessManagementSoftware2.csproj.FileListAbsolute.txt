@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\c#\advenced c#\BusinessManagementSoftware2\BusinessManagementSoftware\bin\Debug\BusinessManagementSoftware2.exe.config
+C:\Users\user\Desktop\c#\advenced c#\BusinessManagementSoftware2\BusinessManagementSoftware\bin\Debug\BusinessManagementSoftware2.exe
+C:\Users\user\Desktop\c#\advenced c#\BusinessManagementSoftware2\BusinessManagementSoftware\bin\Debug\BusinessManagementSoftware2.pdb
+C:\Users\user\Desktop\c#\advenced c#\BusinessManagementSoftware2\BusinessManagementSoftware\obj\Debug\BusinessManagementSoftware.BMSoftware.resources
+C:\Users\user\Desktop\c#\advenced c#\BusinessManagementSoftware2\BusinessManagementSoftware\obj\Debug\BusinessManagementSoftware.BMSoftware2.resources
+C:\Users\user\Desktop\c#\advenced c#\BusinessManagementSoftware2\BusinessManagementSoftware\obj\Debug\BusinessManagementSoftware.BMSoftware3.resources
+C:\Users\user\Desktop\c#\advenced c#\BusinessManagementSoftware2\BusinessManagementSoftware\obj\Debug\BusinessManagementSoftware2.Properties.Resources.resources
+C:\Users\user\Desktop\c#\advenced c#\BusinessManagementSoftware2\BusinessManagementSoftware\obj\Debug\BusinessManagementSoftware2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\c#\advenced c#\BusinessManagementSoftware2\BusinessManagementSoftware\obj\Debug\BusinessManagementSoftware2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\advenced c#\BusinessManagementSoftware2\BusinessManagementSoftware\obj\Debug\BusinessManagementSoftware2.exe
+C:\Users\user\Desktop\c#\advenced c#\BusinessManagementSoftware2\BusinessManagementSoftware\obj\Debug\BusinessManagementSoftware2.pdb
+C:\Users\user\Desktop\c#\advenced c#\BusinessManagementSoftware2\BusinessManagementSoftware\obj\Debug\BusinessManagementSoftware2.csprojAssemblyReference.cache
